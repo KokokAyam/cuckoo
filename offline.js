@@ -1,0 +1,29 @@
+﻿{
+	"version": 1607916663,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hourhand-sheet0.png",
+		"images/minhand-sheet0.png",
+		"images/stopper-sheet0.png",
+		"images/switch-sheet0.png",
+		"images/switch-sheet1.png",
+		"images/symbol-sheet0.png",
+		"images/symbol-sheet1.png",
+		"images/boxcheck-sheet0.png",
+		"images/barcheck-sheet0.png",
+		"images/face-sheet0.png",
+		"images/dream-sheet0.png",
+		"images/clock-sheet0.png",
+		"images/x-sheet0.png",
+		"media/alarm.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
